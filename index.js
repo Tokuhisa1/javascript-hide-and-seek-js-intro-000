@@ -1,3 +1,3 @@
 def getFirstSelector(selector) {
-  return document.querySelector(selector);
+  // return document.querySelector(selector);
 }
